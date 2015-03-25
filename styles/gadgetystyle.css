@@ -1,0 +1,146 @@
+header{
+		height: 400px;
+		font-family: 'Oswald', sans-serif;
+		text-align: center;		
+		z-index: 15;
+	   }
+ 
+header h1{
+		font-size: 800%;
+		margin-top: 150px;
+		
+		 }   
+		 
+#sidelogo {
+		display: inline-block;
+		font-size: 275%;
+		position: fixed;
+		top: 75px;
+		left: 10px;
+		width: 200px;
+		padding: 5px;
+		font-family: 'Oswald', sans-serif;
+		
+		}
+
+body{ 		
+		font-family: Arial, tahoma, verdana;
+		font-size: 85%;
+		margin: 0;
+		padding:0;
+		/*text-align: center;*/
+	} 
+	
+nav {background:#FF0000;
+	position:fixed;
+	top:0px;
+	left:0px;
+	right:0px;
+	margin: auto;
+	text-align: center;
+	padding: 5px;
+	z-index: 10;
+	width: 100%;
+	display: inline;
+	font-size: 150%}
+	
+nav	a{
+		display: inline-block;
+		margin-left: 25px;
+		font-weight: 700;
+		text-transform: uppercase;
+		text-decoration: none;
+		color: #000000;
+		font-size: 175%;
+		font-family: 'Open Sans Condensed', sans-serif;
+	 }
+	 
+		   
+nav a:hover {
+		color: #FFF;	
+}		   
+	
+.popout:hover {
+
+		/*text-decoration: underline;*/
+}	
+#footer { 
+			display: inline-block;
+			margin: auto;
+			/*width: 500px;*/
+			/*background: #FF0000;*/
+			position: absolute;
+			right: 0px;
+			padding: 5px;
+			font-size: 100%;
+			font-family: 'Oswald', sans-serif;
+			text-align: right;
+			
+		}
+	 
+.content {
+		margin: auto;
+		margin-bottom: 50px;
+		background: #CCCCCC;
+		/*text-align: center;*/
+		width:700px;
+		padding: 15px;
+		padding-bottom: 15px;
+		border: 1px solid black;
+		font-family:'Oswald', sans-serif;
+		font-size: 115%;
+		text-align: center;
+		   }
+		   
+#content toc{
+		margin: auto;
+		margin-bottom: 50px;
+		background: #CCCCCC;
+		/*text-align: center;*/
+		width:700px;
+		padding: 15px;
+		border: 1px solid black;
+		font-family: Arial;
+		font-size: 115%;
+		text-align: center;
+		   }
+.content h1 {
+text-align:center;
+}
+.content a:hover {
+	background-color:#FF0000;
+	text-decoration: underline;
+}
+ul {
+list-style: none;
+text-decoration:center;
+display: inline;
+
+
+}
+ li a{
+ color: #000000;
+ text-decoration: none;
+ text-align:center;
+ }
+ 
+ li a:hover{
+ background-color:#FF0000;
+ text-decoration: underline;
+}
+
+#tagline {
+		font-size: 150%;
+		font-family: 'Open Sans Condensed', sans-serif;
+ }
+ 
+a {
+text-decoration: none;
+color: #000000;
+}
+
+
+iframe {
+margin-bottom: 15px;
+
+}

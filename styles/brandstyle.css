@@ -1,0 +1,86 @@
+body{ 
+		background-color: #C8C8CA;
+		font-family: Arial, tahoma, verdana;
+		font-size: 85%;
+		margin: 0;
+		padding:0;
+	} 
+h1    { 
+		background-color: #0052CC;
+		color: #FAFAFA;
+		font-family: Trebuchet MS, verdana, tahoma;
+		font-size: 200%;
+		line-height: 150%;
+		
+	}
+
+p	{
+		font-family: Arial, Trebuchet MS;
+		font-size: 100%;
+	}
+	
+#nav   {	
+		background-color: #0052CC;
+		color: #FAFAFA;
+		font-family: Trebuchet MS, verdana, tahoma;
+		font-size: 175%;
+		line-height: 150%;
+	
+	  }
+.footer{ 
+		 background-color: #0052CC;
+		 color: #FAFAFA;
+		 font-size: 100%;
+		 font-style: italic;
+		 
+		}
+		
+.nav ul{ 
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		text-align:left;
+	  }
+.nav li{
+		color: #FAFAFA;
+		display:inline;
+	  }
+	  
+.nav a{
+		display:inline-block;
+		padding: 10px;
+		text-decoration: none;
+
+	 }
+
+.nav a:link {
+				color: #FAFAFA;
+				text-decoration: none;
+			}
+	 
+.nav a:visited {
+				color: #FAFAFA;
+				text-decoration: none;
+		  }
+
+.nav a:hover {
+			color: #000000;
+			text-decoration: underline;
+		   }
+
+
+.nav a:active {
+			color: #FAFAFA;
+			text-decoration: underline;
+		}
+		
+.container {
+					background-color:#FAFAFA;
+					width:1200px;
+					margin:auto;
+					margin-bottom:30px;
+					margin-top:30px;
+					padding: 15px;
+					border-top: 15px;
+					
+           }

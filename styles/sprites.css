@@ -1,0 +1,34 @@
+.pebble_cl, .vita_bundle_cl, .vita_cl, .pebble2_cl, .xbox_cl{
+	background: url(sprites.png) no-repeat;
+}
+
+.pebble_cl{
+	background-position: 0 0;
+	width: 289px;
+	height: 161px;
+}
+
+.vita_bundle_cl{
+	background-position: -516px 0;
+	width: 289px;
+	height: 162px;
+}
+
+.vita_cl{
+	background-position: 0 -308px ;
+	width: 289px;
+	height: 162px;
+}
+
+.pebble2_cl{
+	background-position: -488px -291px ;
+	width: 317px;
+	height: 179px;
+}
+
+.xbox_cl{
+	background-position: -195px -134px ;
+	width: 384px;
+	height: 216px;
+}
+
